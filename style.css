@@ -1,0 +1,68 @@
+body{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15pt;
+}
+img{
+    size: 100%;
+}
+#head{
+    background-image: url(https://conversionxl.com/wp-content/uploads/2018/09/coding-language.jpg);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-size: 100%;
+    padding: 25px;
+}
+
+h1, h3{
+  color: antiquewhite;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #111;
+  }
+
+  .references{
+      display: block;
+      text-align: center;
+      padding: 14 px;
+  }
+  p{
+      padding: 50px;
+      line-height: 25px;
+  }
+  .container {
+    position: relative;
+    font-family: Arial;
+   
+  }
+  .text-block {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: black;
+    opacity: 0.5;
+    color: white;
+  }
