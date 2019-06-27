@@ -58,6 +58,10 @@ ul {
     font-family: Arial;
    
   }
+  .size{
+    width: 45%;
+  }
+
   .text-block {
     position: absolute;
     top: 20px;
